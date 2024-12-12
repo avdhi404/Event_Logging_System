@@ -1,10 +1,6 @@
-Sure! Here's a sample `README.md` file you can use for your Kafka-based Event Logging System project. You can upload this file to your GitHub repository:
-
----
-
 # Kafka-based Event Logging System
 
-This project implements an event logging system using Apache Kafka for real-time event processing. The system consists of two main components: the producer and the consumer. The producer generates events and sends them to a Kafka topic, while the consumer listens for events and processes them in real-time.
+This project implements an event logging system using Apache Kafka for real-time event processing. The system consists of two main components: the producer and the consumer. The producer generates events and sends them to a Kafka topic, while the consumer listens for events and processes them in real-time. 
 
 ## Project Structure
 
