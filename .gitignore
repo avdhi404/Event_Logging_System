@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.db
 .env
+
+# Ignore large files
+kafka/libs/rocksdbjni-7.9.2.jar
+kafka_2.13-3.9.0.tgz
