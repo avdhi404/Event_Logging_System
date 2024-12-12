@@ -42,6 +42,7 @@ Before running the project, make sure you have the following installed:
    ```
    pip install kafka-python
    pip install sqlite3
+   pip install requests
    ```
 
 ## Running the Project
